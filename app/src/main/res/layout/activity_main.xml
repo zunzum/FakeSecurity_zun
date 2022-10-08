@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#434343"
+    android:background="#444444"
     tools:context=".MainActivity">
     <LinearLayout
         android:layout_width="match_parent"
@@ -78,6 +78,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="top"
+            android:scaleType="fitStart"
             android:src="@drawable/img_bg_user_sub"/>
     </LinearLayout>
 

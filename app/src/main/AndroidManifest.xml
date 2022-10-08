@@ -13,8 +13,7 @@
         android:theme="@style/Theme.FakeSecurity_zun"
         tools:targetApi="31">
         <meta-data
-            android:name="com.google.android.actions"
-            android:resource="@xml/rotation" />
+            android:name="com.google.android.actions"/>
 
         <activity
             android:name=".MainActivity"
